@@ -1,0 +1,26 @@
+{
+  "name": "treehouse-project10",
+  "version": "1.0.0",
+  "description": "Sequelize Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reedkellen/treehouse-project10.git"
+  },
+  "author": "Kellen Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reedkellen/treehouse-project10/issues"
+  },
+  "homepage": "https://github.com/reedkellen/treehouse-project10#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "sequelize": "^4.38.1",
+    "sequelize-cli": "^4.1.1",
+    "sqlite3": "^4.0.2"
+  }
+}

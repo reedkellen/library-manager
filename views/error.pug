@@ -1,0 +1,7 @@
+extends layout
+
+block main
+  section.desk
+    h1 Oops! Something went wrong
+    h3= `${error.message} - Status: ${error.status}`
+      p.stack-trace= error.stack
